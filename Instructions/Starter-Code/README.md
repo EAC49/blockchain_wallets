@@ -1,20 +1,6 @@
-# blockchain_wallets
-
 ## Unit 19 Homework: Cryptocurrency Wallet
 
 ![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
-
-## Streamlit Screenshot
-
-![Streamlit](Images/streamlit.png)
-
-## Ganache Screenshot 1
-
-![ganache1](Images/ganache1.png)
-
-## Ganache Screenshot 2
-
-![ganache2](Images/ganache2.png)
 
 ### Background
 
